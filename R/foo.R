@@ -3,7 +3,7 @@
 #' @returns Package version number.
 #' @export
 foo <- function() {
-  msg <- "0.0.0.9000"
+  msg <- "0.1.0"
   message("Demo A version: ", msg)
   return(msg)
 }
